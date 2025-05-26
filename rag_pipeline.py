@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.chat_models import ChatGroq
+from langchain_groq import ChatGroq
 from vector_database import faiss_db
 from langchain_core.prompts import ChatPromptTemplate
 
