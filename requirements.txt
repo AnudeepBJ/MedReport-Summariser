@@ -1,0 +1,4 @@
+langchain-groq
+langchain_ollama
+langchain_community.vectorstores
+streamlit
